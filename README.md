@@ -1,4 +1,4 @@
-# wheather_AI
+# wheather-AI
 Ce projet a été réalisé sur colab.google / This project was created on colab.google
 
 ## French description
