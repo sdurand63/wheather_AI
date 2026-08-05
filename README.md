@@ -1,5 +1,6 @@
 # wheather-AI
 Ce projet a été réalisé sur colab.google / This project was created on colab.google
+Français | English
 
 ## French description
 Ce projet de Machine Learning développe des modèles prédictifs pour prévoir la précipitation en fonction de paramètres météorologiques. Créé dans le cadre de l'apprentissage du Machine Learning, l'objectif principal est de comparer deux approches différentes et de déterminer la plus adaptée pour une prédiction météo.  
